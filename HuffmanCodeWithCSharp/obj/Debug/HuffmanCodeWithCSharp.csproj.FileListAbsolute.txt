@@ -1,0 +1,7 @@
+C:\Users\DarkSlayer\Desktop\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\bin\Debug\HuffmanCodeWithCSharp.exe.config
+C:\Users\DarkSlayer\Desktop\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\bin\Debug\HuffmanCodeWithCSharp.exe
+C:\Users\DarkSlayer\Desktop\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\bin\Debug\HuffmanCodeWithCSharp.pdb
+C:\Users\DarkSlayer\Desktop\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\obj\Debug\HuffmanCodeWithCSharp.csprojAssemblyReference.cache
+C:\Users\DarkSlayer\Desktop\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\obj\Debug\HuffmanCodeWithCSharp.csproj.CoreCompileInputs.cache
+C:\Users\DarkSlayer\Desktop\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\obj\Debug\HuffmanCodeWithCSharp.exe
+C:\Users\DarkSlayer\Desktop\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\obj\Debug\HuffmanCodeWithCSharp.pdb
